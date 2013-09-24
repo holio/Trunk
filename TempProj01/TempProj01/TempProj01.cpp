@@ -6,6 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	printf("this is origin\n");
+
 	return 0;
 }
 
