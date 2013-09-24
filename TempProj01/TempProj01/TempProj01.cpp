@@ -6,6 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	printf("this is tuto 01\n");
+
 	return 0;
 }
 
